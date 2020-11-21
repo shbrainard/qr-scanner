@@ -1,5 +1,5 @@
-export const AIRTABLE_API_KEY = "key5ofWaqgEdz6Lku";
-export const AIRTABLE_ID = "appfg7BuOITypaNZN";
+export const AIRTABLE_API_KEY = "";
+export const AIRTABLE_ID = "";
 
 export const MODES = [
   {
