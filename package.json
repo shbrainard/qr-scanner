@@ -1,0 +1,32 @@
+{
+  "name": "carrot-qr-scanner",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@sentry/browser": "^4.5.3",
+    "jest-dom": "^2.1.0",
+    "mobx": "^5.5.2",
+    "mobx-react": "^5.3.6",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "react-scripts": "2.0.5",
+    "react-testing-library": "^5.2.3",
+    "semantic-ui-react": "^0.83.0",
+    "styled-components": "^4.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
